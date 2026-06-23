@@ -2,12 +2,12 @@ import java.util.*;
 import java.nio.file.*;
 
 public class Day18 {
-    public static Integer part1(List<String> input) {
-        return -1;
+    public static Long part1(List<String> input) {
+        return -1L;
     }
 
-    public static Integer part2(List<String> input) {
-        return -1;
+    public static Long part2(List<String> input) {
+        return -1L;
     }
 
     public static void main(String[] args) throws Exception {
